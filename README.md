@@ -4,34 +4,6 @@
 <h3 align="center">Authors : Ethan Bowles and Conner Fisk</h2>
 
 ___
->## Versions (Current Version - 1.1)
->
-><details>
-><summary>Version History</summary>
->
->><details>
->><summary>Version 1.1 : 10/1/2021</summary>
->>
->>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hello this is the sample text
->>  
->></details>
->><details>
->><summary>Version 1.2 : 10/1/2021</summary>
->>
->>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hello this is the sample text
->>  
->></details>
->><details>
->><summary>Version 1.3 : 10/1/2021</summary>
->>
->>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hello this is the sample text
->>  
->></details>
->  
-></details>
-
-
-
 >## Diagrams and Resources
 ><details>
 ><summary>Resources</summary>

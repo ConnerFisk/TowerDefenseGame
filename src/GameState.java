@@ -1,6 +1,3 @@
-/**
- * Empty, not yet used.
- */
 package game;
 
 import java.awt.Graphics;
